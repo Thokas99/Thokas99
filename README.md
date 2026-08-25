@@ -17,7 +17,7 @@ My work focuses on extracting **biologically interpretable insights from high-di
 
 ### Computational toolkit
 
-`R` · `Python` · `Bioconductor` · `Seurat` · `Scanpy` · `edgeR` · `limma` · `Nextflow`
+`R` · `Python` · `Nextflow`
 
 I build **reproducible and scalable analysis workflows**, from sequencing QC and preprocessing to integrative modelling and publication-ready biological interpretation.
 
