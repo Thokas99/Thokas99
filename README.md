@@ -6,8 +6,9 @@
 
 **Decoding tumour heterogeneity, cellular plasticity and treatment response through computational biology.**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-thokas99.github.io-0A66C2?style=flat-square\&logo=googlechrome\&logoColor=white)](https://thokas99.github.io/)
-[![GitHub](https://img.shields.io/badge/GitHub-@Thokas99-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/Thokas99)
+[![Portfolio](https://img.shields.io/badge/Portfolio-thokas99.github.io-0A66C2?style=flat-square&logo=googlechrome&logoColor=white)](https://thokas99.github.io/)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0002--7573--8766-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0002-7573-8766)
+[![GitHub](https://img.shields.io/badge/GitHub-@Thokas99-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Thokas99)
 
 </div>
 
